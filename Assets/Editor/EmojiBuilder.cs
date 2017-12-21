@@ -10,8 +10,6 @@
 	输出的数据文件为emoji.txt，同时也会自动拷贝到Asset/GameData中，用于生成LuaTable
 	
 	
-
-
 	Author:zouchunyi
 */
 
